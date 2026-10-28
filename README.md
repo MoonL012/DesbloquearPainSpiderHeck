@@ -19,11 +19,10 @@ Opción B: ya tengo Silk instalado
 
 Solo necesitas copiar el mod.
 
-Abre el .zip y extrae la carpeta Mods en cualquier lugar.
-Abre la carpeta del juego desde Steam (clic derecho en SpiderHeck → Propiedades → Archivos instalados → Examinar).
-Entra en la carpeta Mods del juego.
-Copia dentro de ella el archivo del mod ([NombreDelMod].dll) que sacaste del zip.
-Abre el juego desde Steam.
+Abre el CompleteInstallAllPain.zip y dentro de la carpeta nombrada Mods, se encontrará el archivo DesbloquearPain.dll
+Luego pegalo en la carpeta Mods del juego.
+Abre el juego desde Steam y buala, deberia funcionar.
+
 ## Licencias y créditos
 Este paquete incluye software de terceros:
 - Silk Mod Loader (GPLv3) - [https://github.com/SilkModding/Silk](https://github.com/SilkModding/Silk)
